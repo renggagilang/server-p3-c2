@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "title": "Breaking News: Earthquake Hits City",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imgUrl": "https://media.nature.com/lw767/magazine-assets/d41586-023-00364-y/d41586-023-00364-y_23996644.jpg",
+      "categoryId": 1,
+      "id": 1
+    },
+    {
+      "title": "Political Scandal Unveiled",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imgUrl": "https://www.shutterstock.com/image-photo/port-louis-mauritius-august-29-260nw-1805420728.jpg",
+      "categoryId": "1",
+      "id": 2
+    },
+    {
+      "title": "Technology Breakthrough: New AI System Developed",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imgUrl": "https://www.zdnet.com/a/img/resize/605df164b50d7127344cce4c41e5e2a36ac951b4/2023/04/05/e0478a88-b3ed-4516-8459-e0b919b4b2bc/artificial-intelligence.jpg?auto=webp&width=1280",
+      "categoryId": 3,
+      "id": 3
+    },
+    {
+      "title": "Sports Championship: Team Wins the Title",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imgUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/1200/675/Bucks-win-nba.jpg?ve=1&tl=1",
+      "categoryId": 4,
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "World"
+    },
+    {
+      "id": 2,
+      "name": "Business"
+    },
+    {
+      "id": 3,
+      "name": "Technology"
+    },
+    {
+      "id": 4,
+      "name": "Entertainment"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "adminusername",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "role": "admin",
+      "phoneNumber": "080989999",
+      "address": "jl. jalan ke pasar baru"
+    }
+  ]
+}

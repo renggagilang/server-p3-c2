@@ -1,0 +1,26 @@
+
+    [
+        {
+            "id" : 1,
+            "username" : "admin",
+            "email" : "admin@gmail.com",
+            "password" : "$2b$10$1N7ZQc8tM9\/rVEyMEwJNReXbryi.JEwiNdDIgMBTQJs\/9RAO9snOi",
+            "role" : "admin",
+            "phoneNumber" : "0809899992",
+            "address" : "jl. jalan ke pasar ulerrr",
+            "createdAt" : "2023-05-18T13:43:57.056Z",
+            "updatedAt" : "2023-05-18T13:43:57.056Z"
+        },
+        {
+            "id" : 2,
+            "username" : "testes",
+            "email" : "testes@gmail.com",
+            "password" : "$2b$10$M5U\/4F5HwNSi6cBWNbsKH.s29j9pKrwenYvCbKPwAJh3r55uNsxIu",
+            "role" : "admin",
+            "phoneNumber" : "123123",
+            "address" : "asdasd",
+            "createdAt" : "2023-05-19T17:56:06.346Z",
+            "updatedAt" : "2023-05-19T17:56:06.346Z"
+        }
+    ]
+    
